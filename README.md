@@ -19,6 +19,10 @@ Struktur organisasi yang divisualisasikan mencakup:
 5. **Administrasi & Penunjang:** Bagian Administrasi Akademik & Kemahasiswaan, Bagian Keuangan & Umum, serta Unit Penunjang Teknis (Perpustakaan, SI, Bahasa, dll).
 
 ## 🚀 Cara Menjalankan Proyek
-1. *Clone* repository ini ke komputer lokal Anda:
-   ```bash
-   git clone [https://github.com/muhammadarifikrianto-stack/PKN-STAN-organizational-structure.git](https://github.com/muhammadarifikrianto-stack/PKN-STAN-organizational-structure.git)
+Kamu bisa langsung melihat dan mencoba visualisasi interaktifnya secara *live* tanpa perlu mengunduh berkas. 
+
+Silakan klik tautan di bawah ini:
+👉 [**Buka Website Struktur Organisasi PKN STAN**](https://muhammadarifikrianto-stack.github.io/PKN-STAN-organizational-structure/)
+
+## 📄 Lisensi
+Proyek ini dilisensikan di bawah **MIT License**. Lihat file `LICENSE` untuk informasi lebih lanjut.
